@@ -21,3 +21,9 @@ public class Basic_operations{
         System.out.println(f)
     }
 }
+
+// Arithmetic operators
+// Relational operators
+// Logical operators
+// Bitwise operators
+// Assignment operators
